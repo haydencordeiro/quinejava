@@ -187,7 +187,7 @@ class qm
 		c1.totalSizeCalc();
 		c1.inputMinTerms();
 		c1.minTermsDectoBin();
-		
+		System.out.println("STAGE 1");
 		c1.firstStage();
 		System.out.println(" ");
 		System.out.println("group of 0s");
